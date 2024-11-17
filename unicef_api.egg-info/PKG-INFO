@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: unicef-api
+Version: 0.1
+Requires-Dist: flask==3.0.0
+Requires-Dist: flask-sqlalchemy==3.1.1
+Requires-Dist: flask-migrate==4.0.5
+Requires-Dist: flask-login==0.6.3
+Requires-Dist: langchain==0.3.7
+Requires-Dist: langchain-google-genai==0.0.3
+Requires-Dist: python-dotenv==1.0.0
+Requires-Dist: requests==2.31.0
+Requires-Dist: redis==5.0.1
+Requires-Dist: pydantic==2.5.2
+Requires-Dist: flask-limiter==3.5.0
+Requires-Dist: bcrypt==4.0.1
+Requires-Dist: pytest==8.0.0
+Requires-Dist: pytest-asyncio==0.23.5

@@ -1,0 +1,6 @@
+setup.py
+unicef_api.egg-info/PKG-INFO
+unicef_api.egg-info/SOURCES.txt
+unicef_api.egg-info/dependency_links.txt
+unicef_api.egg-info/requires.txt
+unicef_api.egg-info/top_level.txt
